@@ -4,7 +4,7 @@
     <title>第一次尝试</title>
     <url>/firstbloy/A1/</url>
     <content><![CDATA[<span id="more"></span>
-<p>学习和艰苦并存，但很快乐！<br><img src="https://th.bing.com/th/id/R64a1a8f37c12de789b6acd9868ae1869?rik=6Lrcy3ZhujHViA&riu=http://5b0988e595225.cdn.sohucs.com/images/20180808/40cd6dfcdd5b4e0b9bd84212d901e45c.jpeg&ehk=I63U2C3DYuex0VZG5ZYWW8iDT9BxXVTT0+EwfiJwePE=&risl=&pid=ImgRaw"></p>
+<p>学习和艰苦并存，但很快乐！<br><img src="https://gitee.com/zhang-jiasheng/gesi-gaz02.gitee.io/raw/master/images/upload/pic_1.jpg"></p>
 ]]></content>
       <categories>
         <category>尝试</category>
@@ -16,37 +16,19 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World!OK1</title>
-    <url>/firstbloy/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
+    <title>回忆</title>
+    <url>/firstbloy/categories/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>categories</tag>
+      </tags>
   </entry>
   <entry>
     <title>标签</title>
     <url>/firstbloy/tags/</url>
     <content><![CDATA[]]></content>
       <tags>
-        <tag>”tags“</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>回忆</title>
-    <url>/firstbloy/categories/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>categories</tag>
+        <tag>tags</tag>
       </tags>
   </entry>
 </search>
