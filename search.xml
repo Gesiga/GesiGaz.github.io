@@ -10,25 +10,20 @@
         <category>尝试</category>
       </categories>
       <tags>
-        <tag>高兴</tag>
-        <tag>收获</tag>
         <tag>文章</tag>
       </tags>
   </entry>
   <entry>
-    <title>回忆</title>
-    <url>/firstbloy/categories/</url>
-    <content><![CDATA[]]></content>
+    <title>大胆的尝试</title>
+    <url>/firstbloy/A2/</url>
+    <content><![CDATA[<p>第一次写文章不知道写些什么？<br>但是要认真写。。。</p>
+<p>将网站进行完善，认识了一些知识，高兴高兴。:)<br><img src="https://gitee.com/zhang-jiasheng/gesi-gaz02.gitee.io/raw/master/images/upload/001.jpg"></p>
+]]></content>
+      <categories>
+        <category>尝试</category>
+      </categories>
       <tags>
-        <tag>categories</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>标签</title>
-    <url>/firstbloy/tags/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>tags</tag>
+        <tag>文章</tag>
       </tags>
   </entry>
 </search>
